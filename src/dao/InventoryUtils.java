@@ -9,5 +9,5 @@ package dao;
  * @author HP
  */
 public class InventoryUtils {
-    public static String billPath = "C:\\Users\\HP\\Desktop\\dbms_project";
+    public static String billPath = "C:\\Users\\HP\\Desktop\\dbms_project\\bills\\";
 }
